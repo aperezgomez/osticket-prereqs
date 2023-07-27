@@ -32,6 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - osTicket v1.15.8
 - Link to downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
+
 <h2>Installation Steps</h2>
 
 
@@ -42,25 +43,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/8aa59bc6-a956-49f9-8814-713f0af583e1)
+<img src="https://imgur.com/MAhXK2e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/da1ea082-db20-4d46-9f10-fd218eafbb89)
+<img src="https://imgur.com/Zf2jw07.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 3.) Once you have connected to your virtual machine you will want to go to your control panel. From the control panel open up programs. Select, Turn Windows features on and off.
 
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/da7a9584-1298-4552-ad16-8206fcb2ec76)
-
+<img src="https://imgur.com/fGXMpx4.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/11f85a3b-945a-4b19-a0f2-055b81c317da)
-
+<img src="https://imgur.com/LBGkAw6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -70,14 +69,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 [X] Common HTTP Features
   
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/e6ba1f92-82b0-4e44-bc92-7f8396c93659)
-
+<img src="https://imgur.com/LQjw9le.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/8edeb7cd-0322-4788-ba6b-2838562b8abf)
-
+<img src="https://imgur.com/pbPeHb1.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -127,16 +124,14 @@ Standard Configuration ->
   Make the new root password: Password1
   
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/22af72f0-e885-44f9-ba34-b60c934a6f84)
-
+<img src="https://imgur.com/KxcUy7C.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
   Execute the process on the next page.
   
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/951917c4-11c9-49ec-9b8c-896f32f6bd7e)
-
+<img src="https://imgur.com/i7sn6hT.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -144,8 +139,7 @@ Standard Configuration ->
   The program should look like this.
   
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/39361685-e3a8-43e6-af3f-35d7407f90c9)
-
+<img src="https://imgur.com/rgdZwmM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -153,16 +147,14 @@ Standard Configuration ->
   Click on PHP Manager
   
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/a3c4bc4e-7b51-4514-a03d-0e4187940495)
-
+<img src="https://imgur.com/vvTLNBH.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 Register new PHP version.
   
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/b6aff93b-be1b-41b9-b883-a2c8147faa5e)
-
+<img src="https://imgur.com/qdbn5zQ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -170,16 +162,14 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   Go to C Drive -> PHP -> click on php-cgi file.
   
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/840a7ff9-83eb-46d8-8572-a63b1e3230b7)
-
+<img src="https://imgur.com/oJZ0gp9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
   Restart the IIS server.
   
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/26dee4f2-1feb-4fa0-a15d-63a9c09e0add)
-
+<img src="https://imgur.com/CJ3RUbG.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -194,8 +184,7 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   -On the right, click “Browse *:80”
   
 <p>
-![image](https://github.com/aperezgomez/osticket-prereqs/assets/120771676/9974665c-2948-4f8f-8ce6-d005026ec128)
-
+<img src="https://imgur.com/Yw55d5b.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
